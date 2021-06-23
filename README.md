@@ -1,2 +1,2 @@
-# SistemaBancario-Teste
+# SistemaBancario-TestesDeSoftware
 ![](relatorio.png)
